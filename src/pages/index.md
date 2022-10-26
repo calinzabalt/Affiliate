@@ -1,49 +1,56 @@
 ---
 templateKey: index-page
-title: Great coffee with a conscience
-image: /img/a-book-gb4a2db555_1920.jpg
-heading: Great coffee with a conscience
-subheading: Support sustainable farming while enjoying a cup
+title: '"Devoted to providing the best"'
+image: /img/hd-wallpaper-g0ca74e45a_1920.jpg
+heading: Better life
+subheading: information
 mainpitch:
-  title: Why Kaldi
+  title: Why Aboutness
   description: >
-    Kaldi is the coffee store for everyone who believes that great coffee
-    shouldn't just taste good, it should do good too. We source all of our beans
-    directly from small scale sustainable farmers and make sure part of the
-    profits are reinvested in their communities.
-description: Kaldi is the ultimate spot for coffee lovers who want to learn
-  about their java’s origin and support the farmers that grew it. We take coffee
-  production, roasting and brewing seriously and we’re glad to pass that
-  knowledge to anyone.
+    The blog is devoted to providing the best information about the most popular
+    products in the market. We want our readers to feel confident when they're
+    making a decision and we want them to have access to the information that
+    will help them make an informed choice.
+description: "We all want to live a better life. We want to be happier,
+  healthier, and more productive. But how do we get there?  Well, let's start
+  with this: You can't just expect your life to get better on its own. You have
+  to take action. And if you're not sure what action to take, maybe you've tried
+  a bunch of things that didn't work out the way you hoped they would.  Here's
+  the thing: It's not necessarily your fault! There are so many bad habits and
+  behaviors that keep us from being happy—and those habits are hard to break!
+  But don't worry—we can help you do it!"
 intro:
   blurbs:
     - image: /img/coffee.png
       text: >
-        We sell green and roasted coffee beans that are sourced directly from
-        independent farmers and farm cooperatives. We’re proud to offer a
-        variety of coffee beans grown with great care for the environment and
-        local communities. Check our post or contact us directly for current
-        availability.
+        It's easy to feel like you're stuck in a rut. Things happen, and you get
+        used to them. You start thinking that this is your life, and maybe it's
+        not so bad. Maybe you should just accept it and move on, because nothing
+        else will ever be better than what you have now, anyway.
     - image: /img/coffee-gear.png
       text: >
-        We offer a small, but carefully curated selection of brewing gear and
-        tools for every taste and experience level. No matter if you roast your
-        own beans or just bought your first french press, you’ll find a gadget
-        to fall in love with in our shop.
+        But wait! There's a way out of the rut. All it takes is a little bit of
+        courage, a little bit of self-awareness, and a lot of determination. You
+        can live your best life possible—you just need to know how.
     - image: /img/tutorials.png
-      text: >
-        Love a great cup of coffee, but never knew how to make one? Bought a
-        fancy new Chemex but have no clue how to use it? Don't worry, we’re here
-        to help. You can schedule a custom 1-on-1 consultation with our baristas
-        to learn anything you want to know about coffee roasting and brewing.
-        Email us or call the store for details.
+      text: >-
+        We all want to improve our lives, but it can be hard to figure out how.
+
+
+        We've got some ideas for you!
+
+
+        First things first: if you want to improve your life, get a good night's sleep. If you're tired and cranky, you won't be able to focus on making things better, so it's important to get enough rest.
+
+
+        Next, take time for yourself. Find something that makes you happy and do it regularly—whether it's reading or going to the gym or just spending time with friends.
     - image: /img/meeting-space.png
       text: >
-        We believe that good coffee has the power to bring people together.
-        That’s why we decided to turn a corner of our shop into a cozy meeting
-        space where you can hang out with fellow coffee lovers and learn about
-        coffee making techniques. All of the artwork on display there is for
-        sale. The full price you pay goes to the artist.
+        Finally, remember that no matter how much you try to improve your life,
+        there will always be obstacles in the way. That's why it's important not
+        only to get the right amount of sleep and take time for yourself, but
+        also stay positive! Don't let obstacles stop you from seeing the bright
+        side of things—and remember that there IS always a bright side!
   heading: What we offer
   description: >
     Kaldi is the ultimate spot for coffee lovers who want to learn about their
