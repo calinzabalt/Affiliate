@@ -21,18 +21,18 @@ description: "We all want to live a better life. We want to be happier,
   But don't worry—we can help you do it!"
 intro:
   blurbs:
-    - image: /img/coffee.png
+    - image: /img/wooden-figure-g50e231785_1280.jpg
       text: >
         It's easy to feel like you're stuck in a rut. Things happen, and you get
         used to them. You start thinking that this is your life, and maybe it's
         not so bad. Maybe you should just accept it and move on, because nothing
         else will ever be better than what you have now, anyway.
-    - image: /img/coffee-gear.png
+    - image: /img/runner-g910131918_1280.jpg
       text: >
         But wait! There's a way out of the rut. All it takes is a little bit of
         courage, a little bit of self-awareness, and a lot of determination. You
         can live your best life possible—you just need to know how.
-    - image: /img/tutorials.png
+    - image: /img/lost-gff246d94f_1280.jpg
       text: >-
         We all want to improve our lives, but it can be hard to figure out how.
 
@@ -44,7 +44,7 @@ intro:
 
 
         Next, take time for yourself. Find something that makes you happy and do it regularly—whether it's reading or going to the gym or just spending time with friends.
-    - image: /img/meeting-space.png
+    - image: /img/smiley-g3e9bd388d_1280.jpg
       text: >
         Finally, remember that no matter how much you try to improve your life,
         there will always be obstacles in the way. That's why it's important not
