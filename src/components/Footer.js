@@ -29,6 +29,7 @@ const Footer = () => {
                         Home
                       </Link>
                     </li>
+                    {/*
                     <li>
                       <Link className="navbar-item" to="/about">
                         About
@@ -54,12 +55,7 @@ const Footer = () => {
                         Admin
                       </a>
                     </li>
-                  </ul>
-                </section>
-              </div>
-              <div className="column is-4">
-                <section>
-                  <ul className="menu-list">
+                     */}
                     <li>
                       <Link className="navbar-item" to="/blog">
                         Latest Stories
@@ -73,6 +69,7 @@ const Footer = () => {
                   </ul>
                 </section>
               </div>
+              {/* 
               <div className="column is-4 social">
                 <a title="facebook" href="https://facebook.com">
                   <img
@@ -104,6 +101,7 @@ const Footer = () => {
                   />
                 </a>
               </div>
+              */}
             </div>
           </div>
         </div>
