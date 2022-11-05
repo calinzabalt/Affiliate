@@ -48,13 +48,15 @@ const TemplateWrapper = ({ children }) => {
           property="og:image"
           content={`${withPrefix("/")}img/og-image.jpg`}
         />
-        <Script async src="https://www.googletagmanager.com/gtag/js?id=G-HSPBTKP1T7"></Script>
-        <Script>
+        <Script async src="https://www.googletagmanager.com/gtag/js?id=G-HSPBTKP1T7" strategy="off-main-thread"></Script>
+        <Script id="gtag-config" strategy="off-main-thread" forward={[`gtag`]}>
+        {`
           window.dataLayer = window.dataLayer || [];
           function gtag(){dataLayer.push(arguments)}
           gtag('js', new Date());
 
           gtag('config', 'G-HSPBTKP1T7');
+          `}
         </Script>
       </Helmet>
       <Navbar />
