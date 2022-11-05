@@ -1,6 +1,6 @@
 import React, { useState } from "react";
 import { Link } from "gatsby";
-import logo from "../img/logo_v1.svg";
+import logo from "../img/logo_v2.png";
 
 const Navbar = () => {
   const [isActive, setIsActive] = useState(false);
