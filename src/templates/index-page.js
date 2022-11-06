@@ -48,16 +48,14 @@ export const IndexPageTemplate = ({
                   {/* 
                   <Features gridItems={intro.blurbs} />
                   */}
-                  <div className="column">
-                    <h3 className="has-text-weight-semibold is-size-2">
-                      Latest stories
-                    </h3>
-                    <BlogRoll />
-                    <div className="column is-12 has-text-centered">
-                      <Link className="btn" to="/blog">
-                        Read more
-                      </Link>
-                    </div>
+                  <h3 className="has-text-weight-semibold is-size-2">
+                    Latest stories
+                  </h3>
+                  <BlogRoll />
+                  <div className="column is-12 has-text-centered">
+                    <Link className="btn" to="/blog">
+                      Read more
+                    </Link>
                   </div>
                 </div>
               </div>
