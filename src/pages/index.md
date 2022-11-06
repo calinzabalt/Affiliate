@@ -1,9 +1,9 @@
 ---
 templateKey: index-page
-title: Devoted to provide the best
+title: Devoted to provide
 image: /img/social-media-gc63b9af1a_1920.png
-heading: Better life
-subheading: '"information"'
+heading: What will we be writing about?
+subheading: '"the best information"'
 mainpitch:
   title: Why Aboutness
   description: >
