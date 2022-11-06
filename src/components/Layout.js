@@ -5,7 +5,6 @@ import Navbar from "../components/Navbar";
 import "./all.sass";
 import useSiteMetadata from "./SiteMetadata";
 import { withPrefix } from "gatsby";
-import { Script } from 'gatsby';
 
 const TemplateWrapper = ({ children }) => {
   const { title, description } = useSiteMetadata();
@@ -48,16 +47,6 @@ const TemplateWrapper = ({ children }) => {
           property="og:image"
           content={`${withPrefix("/")}img/og-image.jpg`}
         />
-        <Script async src="https://www.googletagmanager.com/gtag/js?id=G-HSPBTKP1T7" strategy="off-main-thread"></Script>
-        <Script id="gtag-config" strategy="off-main-thread" forward={[`gtag`]}>
-        {`
-          window.dataLayer = window.dataLayer || [];
-          function gtag(){dataLayer.push(arguments)}
-          gtag('js', new Date());
-
-          gtag('config', 'G-HSPBTKP1T7');
-          `}
-        </Script>
       </Helmet>
       <Navbar />
       <div>{children}</div>
