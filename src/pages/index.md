@@ -11,10 +11,12 @@ mainpitch:
     products in the market. We want our readers to feel confident when they're
     making a decision and we want them to have access to the information that
     will help them make an informed choice.
-description: This blog is basically going to talk about everything. From
-  marketing, to technology, to food, we are going to cover it all. So, if you're
-  looking for an all encompassing list of topics to read about then this is the
-  site for you
+description: This blog is going to be covering a lot of different topics, which
+  means you aren't going to get bored. We are going to be covering marketing,
+  technology, hell even food! Since we are going to be covering a lot of topics
+  it goes without saying that there will be tons of articles for you to read.
+  So, if you're looking for an all encompassing list of topics then this is the
+  site for you. So what are you waiting for?
 intro:
   blurbs:
     - image: /img/wooden-figure-g50e231785_1280.jpg
