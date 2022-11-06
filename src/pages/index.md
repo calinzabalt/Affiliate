@@ -11,14 +11,10 @@ mainpitch:
     products in the market. We want our readers to feel confident when they're
     making a decision and we want them to have access to the information that
     will help them make an informed choice.
-description: "We all want to live a better life. We want to be happier,
-  healthier, and more productive. But how do we get there?  Well, let's start
-  with this: You can't just expect your life to get better on its own. You have
-  to take action. And if you're not sure what action to take, maybe you've tried
-  a bunch of things that didn't work out the way you hoped they would.  Here's
-  the thing: It's not necessarily your fault! There are so many bad habits and
-  behaviors that keep us from being happy—and those habits are hard to break!
-  But don't worry—we can help you do it!"
+description: This blog is basically going to talk about everything. From
+  marketing, to technology, to food, we are going to cover it all. So, if you're
+  looking for an all encompassing list of topics to read about then this is the
+  site for you
 intro:
   blurbs:
     - image: /img/wooden-figure-g50e231785_1280.jpg
