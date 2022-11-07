@@ -1,6 +1,6 @@
 ---
 templateKey: blog-post
-title: Why is important to build a landing page
+title: Why is important to build a landing page ?
 date: 2022-11-07T18:35:00.037Z
 description: Startups and small businesses are always looking for ways to
   improve their marketing strategies. One of the best ways to do that is by
