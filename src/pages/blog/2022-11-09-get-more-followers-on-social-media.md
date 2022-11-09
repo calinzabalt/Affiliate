@@ -24,6 +24,8 @@ tags:
   - grow
   - monetize
 ---
+![](/img/more-traffic.png)
+
 ## Set Goals.
 
 One of the most important steps you can take is to set goals. A goal is something that you want to achieve, and it's helpful to define your goals before starting a social media marketing strategy because it will help you stay on track as you go along. Goals are also necessary for measuring progress—if you don't know where you're going, how will you know if and when you've arrived?
