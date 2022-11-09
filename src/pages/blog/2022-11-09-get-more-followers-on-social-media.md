@@ -16,6 +16,13 @@ description: Social media marketing can be a highly effective way to reach
   being more powerful than most forms of advertising
 featuredpost: false
 featuredimage: /img/more-traffic.png
+tags:
+  - social media
+  - facebook
+  - instagram
+  - tiktok
+  - grow
+  - monetize
 ---
 ## Set Goals.
 
