@@ -8,6 +8,13 @@ description: "You may have heard that losing weight is a good idea. You may even
   rundown:"
 featuredpost: true
 featuredimage: /img/ignite.png
+tags:
+  - weight
+  - weight loss
+  - productive
+  - active lifestyle
+  - strong body
+  - strong mind
 ---
 <!--StartFragment-->
 
