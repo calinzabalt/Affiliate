@@ -13,7 +13,7 @@ tags:
   - freedom
   - happiness
 ---
-> [Yes! I want to Drink Less ](https://5d975vma0oo1ysac18xew4xo21.hop.clickbank.net)
+**[Yes! I want to Drink Less ](https://5d975vma0oo1ysac18xew4xo21.hop.clickbank.net)**
 
 ![](/img/alcohol.jpg)
 
@@ -81,7 +81,5 @@ You can learn to drink less and still have an active social life. There are many
 ## Conclusion
 
 It’s not easy to make a change like this, but it is possible. There are plenty of resources out there to help you do it—whether they take the form of online communities or apps that monitor your alcohol intake and offer reminders when it’s time for a break. You can also try some of the tips listed above, like cutting back on certain types of alcohol or replacing drinking with other activities that don’t involve alcohol at all (like playing sports). The most important thing is to just keep trying!
-
-
 
 More steps: [I want to Drink Less ](https://5d975vma0oo1ysac18xew4xo21.hop.clickbank.net)
