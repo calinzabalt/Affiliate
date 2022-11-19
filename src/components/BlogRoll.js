@@ -21,18 +21,21 @@ const BlogRollTemplate = (props) => {
               <header>
                 {post?.frontmatter?.featuredimage && (
                   <div className="featured-thumbnail">
-                    <PreviewCompatibleImage
-                      imageInfo={{
-                        image: post.frontmatter.featuredimage,
-                        alt: `featured image thumbnail for post ${post.frontmatter.title}`,
-                        width:
-                          post.frontmatter.featuredimage.childImageSharp
-                            .gatsbyImageData.width,
-                        height:
-                          post.frontmatter.featuredimage.childImageSharp
-                            .gatsbyImageData.height,
-                      }}
-                    />
+                    <Link
+                      to={post.fields.slug}>
+                      <PreviewCompatibleImage
+                        imageInfo={{
+                          image: post.frontmatter.featuredimage,
+                          alt: `featured image thumbnail for post ${post.frontmatter.title}`,
+                          width:
+                            post.frontmatter.featuredimage.childImageSharp
+                              .gatsbyImageData.width,
+                          height:
+                            post.frontmatter.featuredimage.childImageSharp
+                              .gatsbyImageData.height,
+                        }}
+                      />
+                    </Link>
                   </div>
                 ) }
                 <p className="post-meta">
