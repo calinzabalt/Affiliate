@@ -59,7 +59,7 @@ const Footer = () => {
                     </li>
                      */}
                     <li>
-                      <Link className="navbar-item" to="/blog">
+                      <Link className="navbar-item" to="/latest-story">
                         Latest Stories
                       </Link>
                     </li>
