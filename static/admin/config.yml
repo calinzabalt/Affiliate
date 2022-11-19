@@ -15,7 +15,7 @@ public_folder: /img
 collections:
   - name: "latest-story"
     label: "Latest-story"
-    folder: "src/pages/blog"
+    folder: "src/pages/latest-story"
     create: true
     slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
     fields:
