@@ -47,7 +47,7 @@ With ***[Viddyoze](https://5f5102gj7fybyt1nuylkzwqrb1.hop.clickbank.net)***, you
 
 When you choose a template in Viddyoze, you can then customise all aspects of it: the colours, fonts and even the background music. This means that even if the template has been designed for a completely different type of business or audience than yours – say weddings instead of financial services – you can easily make it work in your favour by customising everything to suit your needs.
 
-## use viddyoze to make videos for your business
+## Use viddyoze to make videos for your business
 
 Viddyoze is a cloud-based video maker for business. It's easy to use and allows you to create high-quality videos in minutes.
 
