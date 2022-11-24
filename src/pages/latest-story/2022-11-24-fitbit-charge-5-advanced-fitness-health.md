@@ -9,6 +9,11 @@ description: Fitbit Charge 5 is the first Fitbit to offer a resting heart rate
   an intense workout.
 featuredpost: false
 featuredimage: /img/healthy.png
+tags:
+  - stress
+  - sleep
+  - healthier
+  - productive
 ---
 ![](/img/healthy.png)
 
