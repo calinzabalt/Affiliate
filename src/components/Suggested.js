@@ -4,7 +4,7 @@ import { Link, graphql, StaticQuery } from 'gatsby'
 import PreviewCompatibleImage from './PreviewCompatibleImage'
 
 
-const Suggested = (props) => {
+const SuggestedTemplate = (props) => {
   
   const { edges: posts } = props.data.allMarkdownRemark;
 
