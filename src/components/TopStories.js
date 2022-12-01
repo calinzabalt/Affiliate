@@ -11,7 +11,7 @@ const TopStoryTemplate = (props) => {
   return (
     <div className="columns is-multiline">
       {posts &&
-        posts.slice(16, 21).map(({ node: post }) => (
+        posts.slice(19, 21).map(({ node: post }) => (
           <div className="is-parent column is-6" key={post.id}>
             <article
               className={`blog-list-item tile is-child box notification ${
