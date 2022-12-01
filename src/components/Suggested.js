@@ -79,7 +79,7 @@ export default function Suggested() {
   return (
     <StaticQuery
       query={graphql`
-        query Suggested {
+        query SuggestedQuery {
           allMarkdownRemark(
             sort: { order: DESC, fields: [frontmatter___date] }
             filter: { frontmatter: { templateKey: { eq: "blog-post" } } }

@@ -79,7 +79,7 @@ export default function LatestStory() {
   return (
     <StaticQuery
       query={graphql`
-        query LatestStory {
+        query LatestStoryQuery {
           allMarkdownRemark(
             sort: { order: DESC, fields: [frontmatter___date] }
             filter: { frontmatter: { templateKey: { eq: "blog-post" } } }
