@@ -4,8 +4,11 @@ import { Link, graphql } from "gatsby";
 import { getImage } from "gatsby-plugin-image";
 
 import Layout from "../components/Layout";
-import Features from "../components/Features";
-import BlogRoll from "../components/BlogRoll";
+
+import LatestStory from "../components/LatestStory";
+import TopStory from "../components/TopStories";
+import Suggested from "../components/Suggested";
+
 import FullWidthImage from "../components/FullWidthImage";
 
 // eslint-disable-next-line
@@ -25,33 +28,45 @@ export const IndexPageTemplate = ({
       <FullWidthImage img={heroImage} title={title} subheading={subheading} />
       <section className="section section--gradient">
         <div className="container">
-          <div className="section">
+          <div className="new_section">
             <div className="columns">
               <div className="column is-10 is-offset-1">
                 <div className="content">
-                  <div className="content">
-                    <div className="tile">
-                      <h1 className="title">{mainpitch.title}</h1>
-                    </div>
-                    <div className="tile">
-                      <h3 className="subtitle">{mainpitch.description}</h3>
-                    </div>
-                  </div>
-                  <div className="columns">
-                    <div className="column is-12">
-                      <h3 className="has-text-weight-semibold is-size-2">
-                        {heading}
-                      </h3>
-                      <p>{description}</p>
-                    </div>
-                  </div>
+                  {/* <div className="content">
+                        <div className="tile">
+                          <h1 className="title">{mainpitch.title}</h1>
+                        </div>
+                        <div className="tile">
+                          <h3 className="subtitle">{mainpitch.description}</h3>
+                        </div>
+                      </div> 
+                      <div className="columns">
+                        <div className="column is-12">
+                          <h3 className="has-text-weight-semibold is-size-2">
+                            {heading}
+                          </h3>
+                          <p>{description}</p>
+                        </div>
+                      </div>
+                  */}
                   {/* 
                   <Features gridItems={intro.blurbs} />
                   */}
                   <h3 className="has-text-weight-semibold is-size-2">
                     Latest stories
                   </h3>
-                  <BlogRoll />
+                  <LatestStory />
+
+                  <h3 className="has-text-weight-semibold is-size-2">
+                    Top stories
+                  </h3>
+                  <TopStory />
+
+                  <h3 className="has-text-weight-semibold is-size-2">
+                    Suggested for you
+                  </h3>
+                  <Suggested />
+
                   <div className="column is-12 has-text-centered">
                     <Link className="btn" to="/latest-story">
                       Find out more

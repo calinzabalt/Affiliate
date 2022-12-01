@@ -4,14 +4,14 @@ import { Link, graphql, StaticQuery } from 'gatsby'
 import PreviewCompatibleImage from './PreviewCompatibleImage'
 
 
-const BlogRollTemplate = (props) => {
+const Suggested = (props) => {
   
   const { edges: posts } = props.data.allMarkdownRemark;
 
   return (
     <div className="columns is-multiline">
       {posts &&
-        posts.map(({ node: post }) => (
+        posts.slice(8, 10).map(({ node: post }) => (
           <div className="is-parent column is-6" key={post.id}>
             <article
               className={`blog-list-item tile is-child box notification ${
@@ -66,7 +66,7 @@ const BlogRollTemplate = (props) => {
   )
 }
 
-BlogRoll.propTypes = {
+Suggested.propTypes = {
   data: PropTypes.shape({
     allMarkdownRemark: PropTypes.shape({
       edges: PropTypes.array,
@@ -75,11 +75,11 @@ BlogRoll.propTypes = {
 }
 
 
-export default function BlogRoll() {
+export default function Suggested() {
   return (
     <StaticQuery
       query={graphql`
-        query BlogRollQuery {
+        query Suggested {
           allMarkdownRemark(
             sort: { order: DESC, fields: [frontmatter___date] }
             filter: { frontmatter: { templateKey: { eq: "blog-post" } } }
@@ -112,7 +112,7 @@ export default function BlogRoll() {
           }
         }
       `}
-      render={(data, count) => <BlogRollTemplate data={data} count={count} />}
+      render={(data, count) => <Suggested data={data} count={count} />}
     />
   );
 }
