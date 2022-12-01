@@ -112,7 +112,7 @@ export default function LatestStory() {
           }
         }
       `}
-      render={(data, count) => <LatestStory data={data} count={count} />}
+      render={(data, count) => <LatestStoryTemplate data={data} count={count} />}
     />
   );
 }

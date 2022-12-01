@@ -112,7 +112,7 @@ export default function Suggested() {
           }
         }
       `}
-      render={(data, count) => <Suggested data={data} count={count} />}
+      render={(data, count) => <SuggestedTemplate data={data} count={count} />}
     />
   );
 }

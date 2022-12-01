@@ -112,7 +112,7 @@ export default function TopStory() {
           }
         }
       `}
-      render={(data, count) => <TopStory data={data} count={count} />}
+      render={(data, count) => <TopStoryTemplate data={data} count={count} />}
     />
   );
 }
