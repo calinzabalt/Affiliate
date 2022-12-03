@@ -19,14 +19,17 @@ export const BlogPostTemplate = ({
   const PostContent = contentComponent || Content;
 
   useEffect(() => {
-      var link = document.getElementsByClassName('gatsby-resp-image-link');
-      var getLink =  document.querySelectorAll('p a');
+    const interval = setInterval(() => {
+        var link = document.getElementsByClassName('gatsby-resp-image-link');
+        var getLink =  document.querySelectorAll('p a');
 
-    // console.log(link[0].href);
-    //console.log(getLink[0].href)
+      // console.log(link[0].href);
+      //console.log(getLink[0].href)
 
-    link[0].href = getLink[0].href;
-  });
+      link[0].href = getLink[0].href;
+    }, 5000);
+    return () => clearInterval(interval);
+  }, []);
     
 
   return (
