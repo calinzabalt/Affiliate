@@ -1,4 +1,5 @@
 import React from "react";
+import { useEffect } from "react"
 import PropTypes from "prop-types";
 import { kebabCase } from "lodash";
 import { Helmet } from "react-helmet";
@@ -16,6 +17,17 @@ export const BlogPostTemplate = ({
   helmet,
 }) => {
   const PostContent = contentComponent || Content;
+
+  useEffect(() => {
+      var link = document.getElementsByClassName('gatsby-resp-image-link');
+      var getLink =  document.querySelectorAll('p a');
+
+    // console.log(link[0].href);
+    //console.log(getLink[0].href)
+
+    link[0].href = getLink[0].href;
+  });
+    
 
   return (
     <section className="section single page">
