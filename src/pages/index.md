@@ -1,7 +1,7 @@
 ---
 templateKey: index-page
 title: Devoted to provide
-image: /img/social-media-gc63b9af1a_1920.png
+image: /img/usa-g95f029c3e_1920.jpg
 heading: What will we be writing about?
 subheading: '"the best information"'
 mainpitch:
