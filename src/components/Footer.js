@@ -68,6 +68,11 @@ const Footer = () => {
                         Contact
                       </Link>
                     </li>
+                    <li>
+                      <Link className="navbar-item" to="/terms">
+                        Terms & Conditions
+                      </Link>
+                    </li>
                   </ul>
                 </section>
               </div>
