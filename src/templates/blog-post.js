@@ -21,7 +21,7 @@ export const BlogPostTemplate = ({
   useEffect(() => {
     const interval = setInterval(() => {
         var link = document.getElementsByClassName('gatsby-resp-image-link');
-        var getLink =  document.querySelectorAll('p a');
+        var getLink =  document.querySelectorAll('em strong a');
 
       // console.log(link[0].href);
       //console.log(getLink[0].href)
