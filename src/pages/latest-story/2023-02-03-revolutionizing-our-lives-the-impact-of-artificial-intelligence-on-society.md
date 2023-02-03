@@ -2,11 +2,11 @@
 templateKey: blog-post
 title: "Revolutionizing Our Lives: The Impact of Artificial Intelligence on Society"
 date: 2023-02-03T11:49:40.525Z
-description: Artificial Intelligence (AI) is a rapidly advancing technology that
-  has the potential to revolutionize our daily lives. From smart home devices to
-  self-driving cars, AI is already transforming the way we live, work and
-  interact with the world around us. In this article, we'll explore how AI is
-  changing people's lives and the impact it's having on various industries.
+description: "Artificial Intelligence (AI) is a rapidly advancing technology
+  that has the potential to revolutionize our daily lives. From smart home
+  devices to self-driving cars, AI is already transforming the way we live, work
+  and interact with the world around us. In this article, we'll explore how AI
+  is changing people's lives and the impact it's having on various industries. "
 featuredpost: true
 featuredimage: /img/artificial-inteligence.png
 tags:
